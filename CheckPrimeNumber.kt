@@ -30,4 +30,5 @@ fun isPrimeNumber(num: Int): Boolean {
         }
     }
     return isPeimeOrNot
+
 }

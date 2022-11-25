@@ -7,7 +7,6 @@ fun main(args: Array<String>) {
 
     isPalindrome(orgString)
 }
-
 fun isPalindrome (orgString: String): Pair<Int, String> {
     var revString: String = ""
 

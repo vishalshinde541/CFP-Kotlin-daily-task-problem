@@ -2,7 +2,6 @@ fun main(args: Array<String>){
     var num: Int = 20
 
     printfabonacciSerie(num)
-
 }
 
 fun printfabonacciSerie(num:Int){
